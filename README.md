@@ -17,7 +17,7 @@
 
 
 ## :black_nib: Author
--  [Jairo Salazar][github_url] Backend Developer
+-  Jairo Salazar [github_url] Software Developer
 
 ## :bookmark_tabs: License
 This project is under license MIT
